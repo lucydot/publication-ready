@@ -21,5 +21,7 @@ Here is an example exercise
 > > ## Solution
 > >
 > > This is a surprising solution!
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
