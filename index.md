@@ -7,7 +7,8 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> Understand basic Python programming
+> Familiarity with the version control system git and Github
 {: .prereq}
 
 {% include links.md %}
