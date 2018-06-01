@@ -24,4 +24,16 @@ Here is an example exercise
 > {: .solution}
 {: .challenge}
 
+Here is an example of a code block
+
+~~~
+print("Hello everybody")
+~~~
+(: .language-python)
+
+~~~
+Hello everybody
+~~~
+(: .output)
+
 {% include links.md %}
