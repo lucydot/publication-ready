@@ -29,11 +29,11 @@ Here is an example of a code block
 ~~~
 print("Hello everybody")
 ~~~
-(: .language-python)
+{: .language-python}
 
 ~~~
 Hello everybody
 ~~~
-(: .output)
+{: .output}
 
 {% include links.md %}
