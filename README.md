@@ -1,6 +1,6 @@
-# FIXME Lesson title
+# JOSS-ready code
 
-FIXME
+A summary here.
 
 ## Contributing
 
@@ -15,7 +15,7 @@ and have a look at the [more detailed guidelines][lesson-example] on proper form
 
 ## Maintainer(s)
 
-* FIXME
+* Lucy Whalley
 
 ## Authors
 
