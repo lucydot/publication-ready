@@ -1,4 +1,4 @@
-# JOSS-ready code
+# publication-ready code
 
 A summary here.
 
