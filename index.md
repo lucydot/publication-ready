@@ -9,6 +9,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 > Understand basic Python programming  
 > Understand basic shell scripting
 > Familiarity with the version control system git 
+> A piece of code (or perhaps an idea for a piece of code) they think may (one day) be submitted to an open source journal
 {: .prereq}
 
 ## Context
