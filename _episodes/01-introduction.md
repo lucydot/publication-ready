@@ -3,6 +3,7 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
+- Why should I publish my code?
 - What are the requirements for submission to JOSS?
 objectives:
 - Know what JOSS requires for submission to the journal.
