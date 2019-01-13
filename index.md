@@ -7,7 +7,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 > ## Prerequisites
 >
 > Understand basic Python programming  
-> Familiarity with the version control system git and Github
+> Familiarity with the version control system git 
 {: .prereq}
 
 {% include links.md %}
