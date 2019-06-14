@@ -1,12 +1,10 @@
 # publication-ready code
 
-A summary here.
+Website: https://lucydot.github.io/publication-ready/
 
 ## Contributing
 
-We welcome all contributions to improve the lesson!
-Maintainers will do their best to help you if you have any
-questions, concerns, or experience any difficulties along the way.
+We welcome all contributions to improve the lessons!
 
 We'd like to ask you to familiarize yourself
 with our [Contribution Guide](CONTRIBUTING.md)
