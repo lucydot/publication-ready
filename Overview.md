@@ -35,29 +35,33 @@ The workshop will include:
 - Motivation: Why publish your code?
 - Which journals can I publish in? What are the submission criteria? Focus on JOSS.
   - case studies: students work in pairs to look at the software projects and discuss how they meet the JOSS criteria (these could be accepted packages or packages awaiting review)
+  - a useful resource here would be a table of journals and what the submission criteria is for each
 - JOSS submission workflow, incl. the transparent peer review process
 - Structuring your project (incl. semantic versioning)
-- Testing and continuous integration
+- Testing and continuous integration 
+  - Using Code Refinery workshop resources?
 - Documentation
+  - Using Code Refinery workshop resources?
 - Licensing
+  - Using Code Refinery workshop resources?
 
 The workshop *could* include:
 
-- how to do a code review, nicely! (useful if we ask for peer pre-review - see `Peer pre-review` below )
-- peer review session after this: i) assign pairs for peer review ii) 15 minutes to look at code (on github) iii) 10 minutes for feedback to each other
+- how to do a code review, nicely! (useful if we go with a peer pre-submission code review - see section below )
+  - we could ask alex hill from Imperial to deliver this: https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
+  - after this we could do a code review session: i) assign pairs for code review ii) 15 minutes to look at code (on github) iii) 10 minutes for feedback to each other - can you identify the next steps needed towards code publication?
 - code linting
 
-### Course preparation
+### Pre-course questionnaire
 
-- Pre-course survey: 
-  - Assess the level at which entering 
-  - Confirm that they have basic git skills
-  - Link to code available online (could be a script on github)
-  - Would they like a pre-submission code review?
+- Assess the level at which entering 
+- Confirm that they have basic git skills
+- Ask for a link to code available online (could be a script on github) - *or is this too high an entrance barrier?*
+- Assess interest in participating in peer pre-submission code review after the workshop
 
-### Peer pre-review 
+### Peer pre-submission code review
 
-- A mechanism for pre-submission peer code review
-- To provide support prior to JOSS (or equivalent) submission
+- To provide support/confidence prior to JOSS (or equivalent) submission
+- Short 30 minute review (possibly online), going through the journal criteria
 - Provide tool or checklist to aid with the review
 
