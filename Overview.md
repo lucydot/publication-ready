@@ -16,7 +16,7 @@ Two days, 10-5pm with 2 hours for breaks = 10 hours of workshop time.
 London, TBC.
 
 **Participant pre-requisites**  
-version control (git), a programming language, basic bash 
+version control (git), a programming language, basic bash, code available on github or similar.
 
 **Teaching materials**  
 The ["Get your code publication ready"](https://lucydot.github.io/publication-ready) workshop materials are currently being developed. These will incorporate materials from the [Code Refinery](https://coderefinery.org).
@@ -34,20 +34,30 @@ The workshop will include:
 
 - Motivation: Why publish your code?
 - Which journals can I publish in? What are the submission criteria? Focus on JOSS.
-  - case studies: students work in pairs to look at the software projects and discuss how they meet the JOSS criteria
+  - case studies: students work in pairs to look at the software projects and discuss how they meet the JOSS criteria (these could be accepted packages or packages awaiting review)
 - JOSS submission workflow, incl. the transparent peer review process
 - Structuring your project (incl. semantic versioning)
 - Testing and continuous integration
 - Documentation
 - Licensing
 
+The workshop *could* include:
+
+- how to do a code review, nicely! (useful if we ask for peer pre-review - see `Peer pre-review` below )
+- peer review session after this: i) assign pairs for peer review ii) 15 minutes to look at code (on github) iii) 10 minutes for feedback to each other
+- code linting
+
 ### Course preparation
 
-- Pre-course survey: do participants have a software project that they would like mentoring on? Would they like a pre-submission code review?
+- Pre-course survey: 
+  - Assess the level at which entering 
+  - Confirm that they have basic git skills
+  - Link to code available online (could be a script on github)
+  - Would they like a pre-submission code review?
 
-### Follow up
+### Peer pre-review 
 
-- 6 month post-course survey: This will assess whether they use eg: documentation, testing, continous integration more. It will ask how they have shared their code - snippets online, on request, as SI, or whether they have submitted or had a paper accepted to a software journal.
-- Peer mentoring?
-- Pre-submission code review?
+- A mechanism for pre-submission peer code review
+- To provide support prior to JOSS (or equivalent) submission
+- Provide tool or checklist to aid with the review
 
