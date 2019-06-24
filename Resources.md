@@ -1,0 +1,1 @@
+- A readme about readmes: https://github.com/mhucka/readmine
