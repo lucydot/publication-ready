@@ -1,0 +1,29 @@
+### Example workshop timings
+
+- Day one: 
+  - 10-10.10: welcome / introductions / housekeeping 
+  - 10.10-10.30: why publish your code?
+  - 10.30-11: which journals can I publish in and what are the submission criteria?
+  - 11-11.30: case study activity
+  - 11.30-11.50: break
+  - 11.50-12.30: automated testing
+  - 12.30-13.30: lunch
+  - 13.30-14.45: automated testing 
+  - 14.45-15.05: break
+  - 15.05-15.55: automiated testing 
+  - 15.55-16.15: break
+  - 16.15-17.00: introduction to JOSS
+ 
+- Day two:
+  - 10-10.10: welcome to day two / recap on yesterday
+  - 10.10-10.30: structuring your project 
+  - 10.30-11.00: licensing
+  - 11.00-11.20: break
+  - 11.20-12.30: documentation
+  - 12.30-13.30: lunch
+  - 13.30-14.30: documentation
+  - 14.30-14.50: break
+  - 14.50-15.30: how to do a code review
+  - 15.30-16.10: mini code review to identify next steps
+  
+  *Having 50 minutes spare is probably a wise thing - flexibility to adapt / extend as needed*
