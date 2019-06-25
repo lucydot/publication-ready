@@ -5,7 +5,7 @@
 | Motivation  | \*Why should we publish our code?  | \*code refinery lesson "social coding and open research"  ||
 | Software journals   | \*Which journals can we publish in </br> \*What is the submission criteria?  |  \*http://www.codeisscience.com/journal_table.html  | Focus on JOSS|
 | Case Study  | \*What does a successful submission look like?  | \*Accepted or pre-review submissions to JOSS  | Participants work in pairs to look at a software project and discuss how JOSS criteria is met |
-| Introduction to JOSS | \*How do we submit a project to JOSS? </br> \*What is the JOSS review process? |  |Invite JOSS topic editor? Could combine at end of first day with drinks for informal session |
+| Introduction to JOSS | \*How do we submit a project to JOSS? </br> \*What is the JOSS review process? |  |Invite JOSS topic editor? </br> Could combine at end of first day with drinks for informal session |
 | Structuring your project | \*How should we structure a software package? </br> \*When and how do we release software versions? | \*code refinery lesson "reproducible research"| |
 | Testing and continuous integration | \*When should we test our code?</br> \*How do we test our code? | \*code refinery testing lesson | |
 |Docuementation | \*What are the different types of software documentation?</br> \*What makes good documentation?</br>\*How do we write easily maintainable documentation? | \*code refinery documentation lesson | |
