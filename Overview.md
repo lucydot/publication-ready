@@ -35,7 +35,7 @@ Code Refinery, RSLondon and the Software Sustainability Institute
 
 See the [course contents table](workshop_contents.md) - this is in development.
 
-See [example workshop timings](example_workshop_contents.md) - also in development.
+See [example workshop timings](example_workshop_timings.md) - also in development.
 
 ### Pre-course questionnaire
 
