@@ -33,9 +33,9 @@ Code Refinery, RSLondon and the Software Sustainability Institute
 
 *Note: Examples will be in Python, as this is a widely used and readable language. Language-specific groups will form for the activities OR there will be examples for Python and R.*
 
-See the [course contents table]() - this is in development.
+See the [course contents table](workshop_contents.md) - this is in development.
 
-See [example workshop timings]() - also in development.
+See [example workshop timings](example_workshop_contents.md) - also in development.
 
 ### Pre-course questionnaire
 
