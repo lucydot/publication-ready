@@ -7,6 +7,8 @@
 
 ### TODO: workshop practicalities
 
+e.g.
+
 - [ ] Set date
 - [ ] Set location
 - [ ] Find instructors
