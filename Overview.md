@@ -29,7 +29,7 @@ Code Refinery, RSLondon and the Software Sustainability Institute
 
 ### Course Contents
 
-*Note: The lesson is structured around the submission criteria for The Journal of Open Source Software, however this aligns well with the submission criteria for other journals such as [The Journal of Open Research Software (https://openresearchsoftware.metajnl.com/)*
+*Note: The lesson is structured around the submission criteria for The Journal of Open Source Software, however this aligns well with the submission criteria for other journals such as [The Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)*
 
 *Note: Examples will be in Python, as this is a widely used and readable language. Language-specific groups will form for the activities OR there will be examples for Python and R.*
 
