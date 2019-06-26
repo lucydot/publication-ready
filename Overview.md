@@ -4,7 +4,7 @@
 Teach participants the tools needed to publish their code in a journal such as The Journal of Open Source Software
 
 **Context**  
-A growing number of researchers use and write code for their research. This code should be published to enable reproducibile and extensible research, but this is not currently widespread practice. There are different ways code can be made available - eg: a code snippet on a blog, emailed on request, or an interactive notebook available as supplementary information. For more substantial pieces of code there is also a growing number of journals which are focused on the review and publishing of scientific software. The Journal of Open Source Software (JOSS) is one such journal, and requires that the code is tested, documented and undergoes peer review - ie, it encourages "best practice" in scientific software engineering.
+A growing number of researchers use and write code for their research. This code should be published to enable reproducibile and extensible research, and to help ensure that researchers can gain credit for their research outputs, but this is not currently widespread practice. There are different ways code can be made available - eg: a code snippet on a blog, emailed on request, or an interactive notebook available as supplementary information. For more substantial pieces of code there is also a growing number of journals which are focused on the review and publishing of scientific software. The Journal of Open Source Software (JOSS) is one such journal, and requires that the code is tested, documented and undergoes peer review - ie, it encourages "best practice" in scientific software engineering.
 
 **Audience**  
 Researchers who...
@@ -22,10 +22,10 @@ London, TBC.
 version control (git), a programming language, basic bash, code available on github or similar.
 
 **Teaching materials**  
-The ["Get your code publication ready"](https://lucydot.github.io/publication-ready) workshop materials are currently being developed. These will incorporate materials from the [Code Refinery](https://coderefinery.org).
+The ["Get your code publication ready"](https://lucydot.github.io/publication-ready) workshop materials are currently being developed. These will incorporate materials from the [CodeRefinery](https://coderefinery.org).
 
 **Project Partners**  
-Code Refinery, RSLondon and the Software Sustainability Institute
+CodeRefinery, [RSLondon](https://rslondon.ac.uk) and the [Software Sustainability Institute](https://software.ac.uk)
 
 ### Course Contents
 
