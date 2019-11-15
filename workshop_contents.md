@@ -13,3 +13,8 @@
 |Code review| \*How can we conduct *constructive* code reviews?| | Ask Alex Hill to deliver this? https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/ |
 | Peer code review | \*What next steps should we take towards publishing our code? | | Participants work in pairs: 15 minutes to look at each others code, 15 minutes to identify what the next steps are towards publishing the code |
 | Modular code developement | \*How do we write easily extensible code? | \* code refindery lesson "modular code development"| I think this is difficult to teach in a short time frame - not sure whether to include or not? |
+
+
+### Short talks
+
+For broader context: Robyn Price at Imperial - Bibliometrics and Indicators Manager
